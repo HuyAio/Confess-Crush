@@ -2,9 +2,8 @@ const CONFIG = {
     titleWeb: " LỜI MUỐN NÓI",
     introTitle: 'CẬU GÌ ĐÓ ƠI🥰 CẬu đó!',
     introDesc: `Trái đất vốn lạ thường😘,
-    Mà sao cậu cứ đi nhầm đường.
-    Lạc vào tim tớ lẻ loi,
-    Đằng sau chữ yêu đây là thương.
+    Mà sao cậu cứ đi nhầm đường >
+    Lạc vào tim tớ lẻ loi.
     Cre:Phạm Hoàng Huy`,
     btnIntro: 'BẮN TIM Ở ĐÂY Nee',
     title: 'Nhìn đây nè 3> THÍCH TỚ LÀM THÌ ĐỒNG Ý NHÈEE 🥰',
