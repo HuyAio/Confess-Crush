@@ -4,10 +4,11 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường😘,
     Mà sao cậu cứ đi nhầm đường.
     Lạc vào tim tớ lẻ loi,
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ yêu đây là thương
+      Cre:Phạm Hoàng Huyメ`,
     btnIntro: 'BẮN TIM Ở ĐÂY Nee',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy😍 ',
+    title: 'Nhìn đây nè 3> THÍCH TỚ LÀM THÌ ĐỒNG Ý NHÈEE 🥰',
+    desc: 'ĐỪNG BỎ QUA TÌNH YÊU NÀY NHÉ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Uả Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu tớ <3',
